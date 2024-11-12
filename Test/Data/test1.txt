@@ -1,0 +1,29 @@
+4,4,3,4,4,3
+A, Aardvark
+B, Baboon
+C, Canary
+D, Dog
+E, Elephant
+F, Fox
+G, Gazelle
+H, Hippopotamus
+I, Iguana
+J, Jackel
+K, Kookaburra
+
+AAAA
+AAAA
+AAAA
+AAAA
+
+BBBB
+BBBB
+BBBB
+BBBB
+
+CCCC
+CCCC
+CCCC
+CCCC
+
+

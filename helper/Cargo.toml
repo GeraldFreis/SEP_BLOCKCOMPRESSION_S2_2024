@@ -1,0 +1,10 @@
+[package]
+name = "helper"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.86"
+clap = { version = "4.5.16", features = ["derive"] }
+rand = "0.8.5"
+simdnoise = "3.1.6"

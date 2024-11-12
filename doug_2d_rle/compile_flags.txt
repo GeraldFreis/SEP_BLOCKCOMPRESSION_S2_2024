@@ -1,0 +1,2 @@
+-std=c++20
+-D SERIALISER_CUSTOM_LOG10
